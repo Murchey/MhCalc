@@ -1,0 +1,7 @@
+H:\VS2019projects\MhSharp\bin\Debug\MhSharp.exe.config
+H:\VS2019projects\MhSharp\bin\Debug\MhSharp.exe
+H:\VS2019projects\MhSharp\bin\Debug\MhSharp.pdb
+H:\VS2019projects\MhSharp\obj\Debug\MhCalc.csproj.AssemblyReference.cache
+H:\VS2019projects\MhSharp\obj\Debug\MhCalc.csproj.CoreCompileInputs.cache
+H:\VS2019projects\MhSharp\obj\Debug\MhSharp.exe
+H:\VS2019projects\MhSharp\obj\Debug\MhSharp.pdb

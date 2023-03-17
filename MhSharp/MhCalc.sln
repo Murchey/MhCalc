@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MhCalc", "MhCalc.csproj", "{E96FBB75-2586-45AE-8375-E4BD3569A110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E96FBB75-2586-45AE-8375-E4BD3569A110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96FBB75-2586-45AE-8375-E4BD3569A110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96FBB75-2586-45AE-8375-E4BD3569A110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96FBB75-2586-45AE-8375-E4BD3569A110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F39ECF52-3E9D-43BC-B5A4-257C3F6A3F37}
+	EndGlobalSection
+EndGlobal

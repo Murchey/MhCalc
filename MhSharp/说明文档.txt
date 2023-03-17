@@ -1,0 +1,54 @@
+变量名说明：
+codeInput 输入的代码
+spliter 分隔符
+ExplainCode() 代码解释器主要部分
+codeWithoutBlank 去除空格之后的代码
+strs 储存字符串的集合
+ints 储存整数的集合
+doubles 储存小数的集合
+dicInt 储存整数的字典
+dicDouble 储存小数的字典
+dicStr 储存字符串的字典
+DeclearString() 声明字符串变量的方法
+DeclearInt() 声明整数变量的方法
+DeclearDouble() 声明小数变量的方法
+listCodeWithoutBlank 储存删除空格后的代码集合
+strCodeWithoutBlank 字符串类型的代码
+strVariableValue() 字符串类型的变量值
+strVariableName() 字符串类型的变量名
+GetVariableName() 得到变量名
+GetVariableValue() 得到变量值
+SaveStringVariable() 储存字符串
+SaveDoubleVariable() 储存小数
+SaveIntVariable() 储存整数
+LettersExistsOrNot() 判断字符串中是否存在字母的方法
+Sin() 计算sin值
+Cos() 计算cos值
+Tan() 计算tan值
+arccos() 返回指定余弦值的度数
+arcsin() 返回指定正弦值的读数
+arctan() 返回指定正切值的度数
+
+
+
+内置函数说明：
+0.显示帮助： /help
+1.退出： exit; 
+2.声明整数类型： int a=000;
+3.声明小数类型： double d=0.99;
+4.声明字符串变量： string str="555hello lll";
+5.调用变量： 变量名
+6.数字间的计算： compute a*b+c-d/f;
+[注释：目前未添加变量间的计算功能]
+7.覆盖变量： 变量类型 变量名=新值;
+8.计算乘方： pow 底数^指数;
+9.计算开方： sqrt 根号下的数;
+10.计算三角函数：sin/cos/tan 角度;
+11.返回指定余弦值的度数：arccos 指定的值;
+12.返回指定正弦值的度数：arcsin 指定的值;
+13.返回指定正切值的度数：arctan 指定的值;
+14.角度制转弧度制：atr 角度;
+15.弧度制转角度制：rta 弧度;
+16.高斯取整函数(Gaussian rounding function)：grf 十进制数;(注释：不大于该数的最大整数)
+17.对数运算：lg/ln 真数;
+log 底数_真数;
